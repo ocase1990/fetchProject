@@ -1,0 +1,10 @@
+.myTable {
+  color: red;
+  background-color: black;
+  margin: 2px;
+  border: 2px dashed yellow;
+}
+
+table, th, td {
+   border: 1px solid white;
+}
